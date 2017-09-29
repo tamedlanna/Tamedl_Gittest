@@ -10,6 +10,7 @@ namespace Tamedl_Gittest
     {
         static void Main(string[] args)
         {
+            //Kathrin hat jetzt was geschrieben :D
         }
     }
 }
