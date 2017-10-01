@@ -11,7 +11,7 @@ namespace Tamedl_Gittest
         static void Main(string[] args)
         {
             //Ein Change für Kathrin :D
-
+            //Anna stinkt. LG Clemens
             //Kathrin hat jetzt was geschrieben :D
 
             //TEEESSSTT
